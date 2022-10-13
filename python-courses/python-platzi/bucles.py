@@ -1,0 +1,20 @@
+# def main():
+#     LIMITE = 1000
+
+#     contador = 0
+#     potencia_2 = 2**contador
+#     while potencia_2 < LIMITE:
+#         print("2 elevado a " + str(contador) + " es igual a: " + str(potencia_2))
+#         contador += 1
+#         potencia_2 = 2**contador
+
+# if __name__ == '__main__':
+#     main()
+
+#CICLO FOR
+
+# for i in range(1000):
+#     print(i)
+
+# for i in range(1,10):
+#     print(i*2)
